@@ -1425,7 +1425,7 @@ mod tests {
             );
             assert_eq!(
                 for_host!(
-                    r"info: profile set to 'default'
+                    r"info: profile set to default
 info: default host triple is {0}
 "
                 ),
